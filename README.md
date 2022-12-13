@@ -1,1 +1,1 @@
-# hvae
+# Hyperbolic VAE
